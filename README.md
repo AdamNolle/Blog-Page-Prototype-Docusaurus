@@ -1,8 +1,8 @@
-# Blog site built using docusaurus
+# Blog site built using Docusaurus
 
 # NOTE:
 
-_This was more or less an exploration of docusaurus_
+_This was more or less an exploration of Docusaurus_
 
 ## Information:
 
